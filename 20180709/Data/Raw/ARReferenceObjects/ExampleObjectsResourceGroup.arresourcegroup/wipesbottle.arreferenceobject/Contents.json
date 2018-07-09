@@ -1,0 +1,13 @@
+{
+    "objects": [
+        {
+            "idiom": "universal",
+            "filename": "wipesBottle.arobject"
+        }
+    ],
+    "info": {
+        "version": 1,
+        "author": "unity"
+    },
+    "referenceObjectName": "wipesbottle"
+}
